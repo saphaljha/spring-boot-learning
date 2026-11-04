@@ -23,6 +23,14 @@ mvn clean install
 ```
 
 
+
+### resolve dependency (restart the editor if not reflecting)
+
+```cmd
+mvn dependency:resolve
+``` 
+
+
 ### xdebug settigns: 
 
 ```cmd
