@@ -56,4 +56,17 @@ Add breakpoint and run the application
 Note: port should be open at remote host then only debugging will work.
 
 
-### 
+###  Run your unit test via Maven:
+
+``` cmd
+mvn test 
+
+```
+
+
+###  Run your isolated unit test via Maven:
+
+``` cmd
+mvn test -Dtest=ClaimServiceTest
+
+```
