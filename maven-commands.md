@@ -28,7 +28,11 @@ mvn clean install
 mvn clean compile
 ```
 
+###
 
+```cmd
+mvn dependency:tree
+```
 
 
 
