@@ -22,6 +22,14 @@ mvnw spring-boot:run
 mvn clean install
 ```
 
+### :
+
+```cmd
+mvn clean compile
+```
+
+
+
 
 
 ### resolve dependency (restart the editor if not reflecting)
